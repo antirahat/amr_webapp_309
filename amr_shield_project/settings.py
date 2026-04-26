@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-imv)!s=08+v-s+6e@(!q2pe76cei-=5qvp0x5d_6b9on#d20je
 
 # SECURITY WARNING: don't run with debug turned on in production!
 #DEBUG = os.environ.get('DJANGO_DEBUG', 'True').lower() in ('true', '1', 'yes')
-DEBUG = False
+DEBUG = True
 ALLOWED_HOSTS = ['*']
 
 
